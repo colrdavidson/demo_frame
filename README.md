@@ -1,13 +1,13 @@
 # Demo Framework
 
 This comes with two build scripts, one which enables the use of the
-c stdlib, and one without it.
+c stdlib, and one without it. Both use MSVC
 
 ## compile.bat
 makes the binary really tiny;
 it's compressed/self-extracting, so it may have noticable spin-up time.
 doesn't include stdlib, so no printf, no malloc, and no fopen
-This expects crinkler.exe to be in an adjacent directory; 
+This expects crinkler.exe to be in an adjacent directory;
 - Crinkler is available at <http://crinkler.net>
 
 ## debug_compile.bat
