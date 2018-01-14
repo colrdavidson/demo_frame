@@ -1,4 +1,4 @@
-# Demo Framework
+# Demo Skeleton
 
 This comes with two build scripts, one which enables the use of the
 c stdlib, and one without it. Both use MSVC
