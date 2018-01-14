@@ -7,7 +7,8 @@ c stdlib, and one without it.
 makes the binary really tiny;
 it's compressed/self-extracting, so it may have noticable spin-up time.
 doesn't include stdlib, so no printf, no malloc, and no fopen
-- This expects crinkler.exe to be in an adjacent directory; Crinkler is available at git remote add origin <http://crinkler.net>
+This expects crinkler.exe to be in an adjacent directory; 
+- Crinkler is available at <http://crinkler.net>
 
 ## debug_compile.bat
 doesn't make the binary tiny;
